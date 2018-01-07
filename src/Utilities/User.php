@@ -86,6 +86,7 @@ class User
     }
 
     private function _add($a, $b) {
+        //echo $c;
         return ($a + $b);
     }
 
