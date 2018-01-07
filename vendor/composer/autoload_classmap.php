@@ -549,4 +549,7 @@ return array(
     'TheSeer\\Tokenizer\\Tokenizer' => $vendorDir . '/theseer/tokenizer/src/Tokenizer.php',
     'TheSeer\\Tokenizer\\XMLSerializer' => $vendorDir . '/theseer/tokenizer/src/XMLSerializer.php',
     'src\\Utilities\\Email' => $baseDir . '/src/Utilities/Email.php',
+    'src\\Utilities\\PHPUnitUtil' => $baseDir . '/src/Utilities/PHPUnitUtil.php',
+    'src\\Utilities\\User' => $baseDir . '/src/Utilities/User.php',
+    'src\\Utilities\\UserException' => $baseDir . '/src/Utilities/UserException.php',
 );
